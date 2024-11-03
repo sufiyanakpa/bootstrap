@@ -1,0 +1,171 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.nav-item{
+    border: 2px solid rgb(128, 127, 127);
+    margin-right: 10px;
+}
+#banercontainer{
+   padding: 0%;
+   
+}
+#baner{
+    height: 400px;
+}
+#secondlayout{
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(177, 182, 187);
+    padding-top: 40px;
+
+
+}
+#container{
+    padding: 30px;
+    
+}
+#containeritem1>img{
+    height: 150px;
+    
+    
+}
+#containeritem2>img{
+    height: 150px;
+   
+}
+#containeritem3>img{
+    height: 150px;
+   
+}
+#containeritem1{
+    background-color: rgb(240, 244, 248);
+    
+}
+#containeritem2{
+   background-color: rgb(240, 244, 248)
+    
+}
+#containeritem3{
+   background-color:  rgb(240, 244, 248)
+
+}
+#banercontainer2{
+    height: 10px;
+    width: 100%;
+    padding-left: -100px;
+    padding-right: 0%;
+    align-items: end;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+#baner2{
+    padding: 20px; 
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px; 
+    height: 500px;
+    
+}
+#container3{
+    padding-top: 500px;
+}
+#button1{
+    background-color: white;
+    border-radius: 10px;
+}
+#button2{
+    background-color: white;
+    border-radius: 10px;
+}
+#containerfour{
+    padding-top: 500px;
+}
+#h31{
+    color: rgb(154, 154, 167);
+}
+#h32{
+    color: rgb(154, 154, 167);
+}
+#h33{
+    color: rgb(154, 154, 167);
+}
+#h34{
+    color: rgb(154, 154, 167);
+}
+#wide{
+    padding-top: 50px;
+    padding-right: 250px;
+    width:1500px;
+    height:400px;
+}
+#wideh{
+    text-align: left;
+}
+#widep{
+    text-align: left;
+    text-align: justify;
+}
+#wideb{
+    text-align: left;
+}
+.image-container {
+    position: relative;
+    text-align: center;
+  }
+
+  
+.image-container img {
+    
+    padding: 0%;
+    padding-left: 0%;
+    margin: 0%;
+    margin-left: 0%;
+    width:1000px;
+    height:400px;
+    margin-right: 0%;
+    
+  }
+
+  
+  .form-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: transparent;
+    padding: 20px;
+    border-radius: 8px;
+    width: 80%;
+    max-width: 500px;
+  }
+  .form-overlay>div{
+    background-color: transparent;
+  }
+  .form-overlay{
+    align-items: center;
+    text-align:center;
+    top: 200px;
+    color: white; 
+   
+  }
+  #form{
+    align-items: center;
+    text-align:center;
+    top: 2000px;
+    color: white; 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+#last{
+    padding-top: 50px;
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
